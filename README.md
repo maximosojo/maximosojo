@@ -5,5 +5,5 @@ Soy desarrollador web especializado en Backend, apasionado por lo que hago siemp
 - 💻 Actualmente estoy trabajando como freelancer.
 - 📚 Actualmente estoy trabajando en tecnologías sobre NodeJs.
 - 😎 Estoy buscando colaborar en proyectos Open Source.
-- 🛠️ Trabajando con ** PHP, Symfony, JavaScript, Angular, Python, Django ** y ** NodeJs **.
+- 🛠️ Trabajando con ** PHP, Symfony, JavaScript, TypeScript, Angular, NodeJs, Python ** y ** Django **.
 - 📫 Contáctame en [Instagram](https://instagram.com/maximosojo) y [Twitter](https://twitter.com/maximosojo).
